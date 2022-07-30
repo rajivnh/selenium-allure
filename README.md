@@ -13,7 +13,6 @@ and finally, open a command prompt screen, go to the project directory, and run 
 allure serve .\target\allure-results
 
 <b>Allure Sample Reports</b>
-<hr>
 
 ![Cucumber](https://user-images.githubusercontent.com/79500629/181915080-53f243ae-258f-409c-a09e-34f0901bfd34.png)
 
