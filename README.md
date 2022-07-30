@@ -15,4 +15,5 @@ allure serve .\target\allure-results
 <b>Allure Sample Reports</b>
 <hr>
 
-![Cucumber](https://user-images.githubusercontent.com/79500629/181914985-0c57a103-3388-4ba0-b759-a726aecda8be.png)
+![Cucumber](https://user-images.githubusercontent.com/79500629/181915080-53f243ae-258f-409c-a09e-34f0901bfd34.png)
+
