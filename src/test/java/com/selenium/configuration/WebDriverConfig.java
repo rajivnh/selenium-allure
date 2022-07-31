@@ -46,7 +46,7 @@ public class WebDriverConfig {
 		
 		ChromeOptions options = new ChromeOptions();
 		
-		// for full page screenshot capture
+		// for full page screenshots
 		options.addArguments("--start-maximized", "--start-fullscreen");
 		
         return new ChromeDriver(options);
